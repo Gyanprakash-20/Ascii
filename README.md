@@ -30,7 +30,7 @@
 <ol>
   <li>Place the input image in the project directory or provide its path when prompted.</li>
   <li>Run the script:
-    <pre>python image_to_ascii.py</pre>
+    <pre>python ascii.py</pre>
   </li>
   <li>Enter the path to your image when asked and view the generated ASCII art in the console!</li>
 </ol>
