@@ -42,11 +42,6 @@
 @@##########%%######@@@@@@@
 </pre>
 
-<h2>Contributing</h2>
-<p>Contributions are welcome! Feel free to open a pull request or raise an issue for any improvements or bug fixes.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
 </body>
 </html>
